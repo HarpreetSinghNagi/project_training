@@ -7,7 +7,7 @@ import 'firebase/firestore';
 
 const firebaseConfig = {
     apiKey: "AIzaSyAuAYgYV1D2b5edpw2p1_jFrPm098QDyfo",
-    authDomain: "whatsapp-firebase-yt-7f660.firebaseapp.com",
+    
     authDomain: "chatmeapplication.herokuapp.com/",
     projectId: "whatsapp-firebase-yt-7f660",
     storageBucket: "whatsapp-firebase-yt-7f660.appspot.com",
